@@ -1,5 +1,5 @@
 .fb-anonymous #fb-timeline-cover-name,
-.fb-anonymous [data-hovercard^="/ajax/hovercard/user.php"],
+.fb-anonymous .profileLink[data-hovercard^="/ajax/hovercard/user.php"],
 .fb-anonymous .UFICommentActorName,
 .fb-anonymous ._50f3,
 .fb-anonymous .fwb > a,
