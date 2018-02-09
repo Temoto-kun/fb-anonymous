@@ -2,11 +2,15 @@
 .fb-anonymous .profileLink[data-hovercard^="/ajax/hovercard/user.php"],
 .fb-anonymous .UFICommentActorName,
 .fb-anonymous ._50f3,
-.fb-anonymous .fwb a[data-hovercard^="/ajax/hovercard/user.php"],
+.fb-anonymous .fwb.fcg a[data-hovercard^="/ajax/hovercard/user.php"],
+.fb-anonymous .fwb.fcg a[data-hovercard^="/ajax/hovercard/user.php"],
+.fb-anonymous .fwb.fcb,
 .fb-anonymous ._1vp5,
 .fb-anonymous ._55lr,
 .fb-anonymous #userNav .linkWrap,
-.fb-anonymous .titlebarText.fixemoji
+.fb-anonymous .titlebarText.fixemoji,
+.fb-anonymous ._50d1 .fwb,
+.fb-anonymous #fbNotificationsFlyout span > .fwb /* TODO don't strip out page names */
 {
   display: none !important;
 }
