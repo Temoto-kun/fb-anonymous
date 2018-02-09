@@ -1,0 +1,17 @@
+.fb-anonymous #fb-timeline-cover-name,
+.fb-anonymous [data-hovercard^="/ajax/hovercard/user.php"],
+.fb-anonymous .UFICommentActorName,
+.fb-anonymous ._50f3,
+.fb-anonymous .fwb > a,
+.fb-anonymous ._1vp5,
+.fb-anonymous ._55lr,
+.fb-anonymous #userNav .linkWrap,
+.fb-anonymous .titlebarText.fixemoji
+{
+  display: none !important;
+}
+
+.fb-anonymous .author.fixemoji
+{
+  visibility: hidden !important;
+}
