@@ -2,7 +2,7 @@
 .fb-anonymous .profileLink[data-hovercard^="/ajax/hovercard/user.php"],
 .fb-anonymous .UFICommentActorName,
 .fb-anonymous ._50f3,
-.fb-anonymous .fwb > a,
+.fb-anonymous .fwb a[data-hovercard^="/ajax/hovercard/user.php"],
 .fb-anonymous ._1vp5,
 .fb-anonymous ._55lr,
 .fb-anonymous #userNav .linkWrap,
